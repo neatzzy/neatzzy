@@ -22,4 +22,4 @@ My name is Élvis Miranda and I am Computer Science student at UnB (University o
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=neatzzy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/neatzzy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/neatzzy/neatzzy/blob/output/github-contribution-grid-snake.svg)
