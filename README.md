@@ -5,7 +5,7 @@ My name is Élvis Miranda and I am Computer Science student at UnB (University o
 
 ## Learning
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> <img src="https://static-00.iconduck.com/assets.00/assembly-icon-2048x2048-wspx42mf.png" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR8wtb7u0MBOt-HeUY5Jjm7eNYLUYIBPWD1g&s" width="40" height="40" />
 
 ## Contact info
 
