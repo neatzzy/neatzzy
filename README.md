@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 CS major at University of Brasília<br>⏳ 3️⃣/9️⃣ semesters completed<br> 🗺️ I speak Portuguese 🇧🇷 and English 🇬🇧
+🏫 CS major at University of Brasília<br>⏳ 31% completed<br> 🗺️ I speak Portuguese 🇧🇷 and English 🇬🇧
 
 
 ## 🌐 Socials:
