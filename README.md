@@ -1,5 +1,4 @@
-# 💫 About Me:
-🏫 CS major at University of Brasília<br>⏳ 5/9 semesters completed<br>🗺️ I speak Portuguese 🇧🇷 and English 
+# Hello 👋, my name is Élvis Miranda and I'm a Computer Science student at University of Brasília
 
 
 ## 🌐 Socials:
@@ -23,11 +22,11 @@
 </div>
 
 # 📊 GitHub Stats:
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=neatzzy&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=neatzzy&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent)
+<div align="center">
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=neatzzy&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=neatzzy&langs_count=4&theme=transparent)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=neatzzy&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=neatzzy&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=transparent) [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=neatzzy&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=neatzzy&langs_count=4&theme=transparent)
 
-
+</div>
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neatzzy/neatzzy/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neatzzy/neatzzy/output/github-contribution-grid-snake-dark.svg">
