@@ -18,7 +18,7 @@
     },
     {
       "fields": [
-        { "key": "Hobbies.Software", "value": "Competitive Programming, Leetcode, Game modding" },
+        { "key": "Hobbies.Software", "value": "Competitive Programming, Game modding" },
         { "key": "Hobbies.Hardware", "value": "Overclocking" }
       ]
     },
