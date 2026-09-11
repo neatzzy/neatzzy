@@ -13,21 +13,22 @@
     {
       "fields": [
         { "key": "Languages", "value": "{{languages}}" },
+        { "key": "Frameworks", "value": "Nuxt, React, Rails, Flask" }
         { "key": "IDE", "value": "VSCode" }
       ]
     },
     {
       "fields": [
-        { "key": "Hobbies.Software", "value": "Competitive Programming, Game modding" },
+        { "key": "Hobbies.Software", "value": "Competitive Programming" },
         { "key": "Hobbies.Hardware", "value": "Overclocking" }
       ]
     },
     {
       "title": "- Contact",
       "fields": [
-        { "key": "Email", "value": "{{email}}" },
+        { "key": "Email", "value": "elvismirandajr@gmail.com" },
         { "key": "Website", "value": "https://github.com/{{username}}" },
-        { "key": "Twitter", "value": "{{twitter}}" }
+        { "key": "LinkedIn", "value": "https://www.linkedin.com/in/elviscmjr/" }
       ]
     }
   ],
